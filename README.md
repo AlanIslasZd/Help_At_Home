@@ -123,3 +123,4 @@ Validate the "Builder": Nick (the Admin) had already built a prototype. By expli
 - [Gong_Transcript](https://docs.google.com/document/d/1mMhwSRr_wnPQ68X0gEfsiFcbBrX6G_bMhMDLTu-98zM/edit?usp=sharing)
 - [Lucid Chart](https://lucid.app/lucidchart/b61c9e2a-c55e-457c-90af-6489d243064e/edit?view_items=BGLcc-8Seasw&page=0_0&invitationId=inv_0a461be1-17ab-4ed2-a820-903c7774ea82)
 - [Tags Taxonomy](https://docs.google.com/document/d/1tNaDO218N5CqeaWvMbQ5cmLX7MV34ow-xJ4CgKyrfDY/edit?usp=sharing)
+- [Account Insights Hub](https://zendeskbi.cloud.looker.com/dashboards/493?Crm+Account+ID=0018000001C1aJ4AAJ&Source+Snapshot+Date+-+Can+Update+to+Complete+or+Incomplete+Months+=6+month+ago+for+6+month&Instance+Account+Subdomain=&Crm+Account+Name=Help+at+Home)
