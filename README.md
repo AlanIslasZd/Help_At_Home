@@ -119,4 +119,5 @@ Validate the "Builder": Nick (the Admin) had already built a prototype. By expli
 - Slides Shared by Ryann with me[Help at Home Business Consulting RBA](https://docs.google.com/presentation/d/1ed48nFKbu8oanawswjSZP1I1IIJ5heC1bL5YRkXr7uk/edit?usp=sharing)
 - Analysing the client's ticket tags [Help at Home - Tags Analysis](https://docs.google.com/spreadsheets/d/1TQ3tWHCmtjNfogdtVz1aoLSy-hcc20jvuMQvW5z6_u0/edit?usp=sharing)
 - [Notebook used to build the slides](https://colab.research.google.com/drive/1CgBdErgm5q_6m8tOit8OOoeqVoW_nYZ9?usp=sharing)
-- [Conversation with Gemini](https://gemini.google.com/app/714778f874f97956) 
+- [Conversation with Gemini](https://gemini.google.com/app/714778f874f97956)
+- [Gong_Transcript](https://docs.google.com/document/d/1mMhwSRr_wnPQ68X0gEfsiFcbBrX6G_bMhMDLTu-98zM/edit?usp=sharing)
