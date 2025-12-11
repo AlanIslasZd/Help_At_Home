@@ -122,3 +122,4 @@ Validate the "Builder": Nick (the Admin) had already built a prototype. By expli
 - [Conversation with Gemini](https://gemini.google.com/app/714778f874f97956)
 - [Gong_Transcript](https://docs.google.com/document/d/1mMhwSRr_wnPQ68X0gEfsiFcbBrX6G_bMhMDLTu-98zM/edit?usp=sharing)
 - [Lucid Chart](https://lucid.app/lucidchart/b61c9e2a-c55e-457c-90af-6489d243064e/edit?view_items=BGLcc-8Seasw&page=0_0&invitationId=inv_0a461be1-17ab-4ed2-a820-903c7774ea82)
+- [Tags Taxonomy](https://docs.google.com/document/d/1tNaDO218N5CqeaWvMbQ5cmLX7MV34ow-xJ4CgKyrfDY/edit?usp=sharing)
